@@ -39,13 +39,17 @@
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
+  </div>
 
+<div>
   <!-- 💻 Programming Languages -->
   <h3>Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
+</div>
 
-  <!-- 🤖 Generative AI & Tools -->
+<div>
+   <!-- 🤖 Generative AI & Tools -->
   <h3>Generative AI & Tools</h3>
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="50" alt="Google Colab" />
