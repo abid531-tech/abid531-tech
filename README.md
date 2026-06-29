@@ -9,27 +9,18 @@
 
 ###
 <div align="center">
-  <!-- 🌐 Web Development -->
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
-
-  <!-- 💻 Programming Languages -->
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-
-  <!-- 🤖 Generative AI & Tools -->
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="50" alt="Google Colab" />
-  <!-- Gradio -->
-<img src="https://dl.svgcdn.com/png/logos/gradio-400.png" height="50" alt="Gradio logo" />
-
-  <!-- Streamlit -->
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="50" alt="Streamlit logo" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="50" alt="Streamlit" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
- 
+  <img src="https://dl.svgcdn.com/png/logos/gradio-400.png" height="50" alt="Gradio" />
 </div>
 
 
