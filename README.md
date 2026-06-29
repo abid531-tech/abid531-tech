@@ -24,8 +24,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="50" alt="Google Colab" />
   <!-- Gradio -->
-<img src="https://avatars.githubusercontent.com/u/61361867?s=200&v=4" height="50" alt="Gradio logo" />
- <!-- Streamlit -->
+<img src="https://dl.svgcdn.com/png/logos/gradio-400.png" height="50" alt="Gradio logo" />
+
+  <!-- Streamlit -->
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="50" alt="Streamlit logo" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
  
