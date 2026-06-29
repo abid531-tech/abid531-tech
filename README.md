@@ -45,7 +45,7 @@
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/YOUR-PHONE-NUMBER">
+  <a href="https://wa.me/923451441531">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 
