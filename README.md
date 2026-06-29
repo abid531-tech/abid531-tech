@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Abdur Rahman</h1>
-<h1 align="center">👋 Hi, I'm Abdur Rahman</h1>
 <h3 align="center">Full Stack Web Developer Intern | Exploring Modern Web Technologies</h3>
 <p align="center">
    Currently learning <b>HTML, CSS, Java, React, and Laravel</b><br/>
@@ -10,7 +9,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <!-- Web Development -->
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
   <img width="12" />
@@ -27,8 +26,38 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-</div>
+</div> -->
 
+<div align="center">
+  <!-- 🌐 Web Development -->
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
+
+  <!-- 💻 Programming Languages -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+
+  <!-- 🤖 Generative AI & Tools -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="60" alt="google colab logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=streamlit" height="60" alt="streamlit logo" />
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="60" alt="hugging face logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/assets/logo.png" height="60" alt="gradio logo" />
+</div>
 
 ###
 
