@@ -19,8 +19,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="50" alt="Google Colab" />
    <img src="https://dl.svgcdn.com/png/logos/gradio-400.png" height="50" alt="Gradio" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" style="margin:0; padding: 0;" />
-     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="50" style="margin:0; padding: 0;" alt="Streamlit" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="50" alt="Streamlit" />
+
 </div>
 
 ###
