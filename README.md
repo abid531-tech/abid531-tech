@@ -4,8 +4,7 @@
   🌐 Currently learning <b>HTML, CSS, Java, React, and Laravel</b><br/>
   🖥️ Experienced with <b>C++ and Python</b><br/>
   🚀 Passionate about building scalable web applications and improving my skills every day
-</p>
-<br> <br>
+</p><br>
 
 ###
 
