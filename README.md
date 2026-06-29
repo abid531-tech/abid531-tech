@@ -26,6 +26,12 @@
   <img src="https://skillicons.dev/icons?i=streamlit" height="50" alt="Streamlit" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
   <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/assets/logo.png" height="50" alt="Gradio" />
+  <!-- Streamlit -->
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="50" alt="Streamlit logo" />
+
+<!-- Gradio -->
+<img src="https://raw.githubusercontent.com/gradio-app/gradio/main/assets/logo.png" height="50" alt="Gradio logo" />
+
 </div>
 
 
