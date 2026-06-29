@@ -8,28 +8,6 @@
 </p>
 
 ###
-
-<!-- <div align="center">
-  <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
-
-  <!-- Programming Languages -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-</div> -->
-
- <h2 align="center">🛠️ Tech Stack & Generative AI Tools</h2>
-
 <div align="center">
   <!-- 🌐 Web Development -->
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
