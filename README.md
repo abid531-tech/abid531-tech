@@ -28,36 +28,28 @@
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
 </div> -->
 
- <h2 align="center">🛠️ Tech Stack & Tools</h2>
+ <h2 align="center">🛠️ Tech Stack & Generative AI Tools</h2>
 
 <div align="center">
-
   <!-- 🌐 Web Development -->
-  <h3>Web Development</h3>
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
-  </div>
 
-<div>
   <!-- 💻 Programming Languages -->
-  <h3>Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-</div>
 
-<div>
-   <!-- 🤖 Generative AI & Tools -->
-  <h3>Generative AI & Tools</h3>
+  <!-- 🤖 Generative AI & Tools -->
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="50" alt="Google Colab" />
   <img src="https://skillicons.dev/icons?i=streamlit" height="50" alt="Streamlit" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
   <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/assets/logo.png" height="50" alt="Gradio" />
-
 </div>
+
 
 ###
 
