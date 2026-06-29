@@ -23,15 +23,12 @@
   <!-- 🤖 Generative AI & Tools -->
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="50" alt="Google Colab" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="50" alt="Streamlit" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
-  <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/assets/logo.png" height="50" alt="Gradio" />
-  <!-- Streamlit -->
+  <!-- Gradio -->
+<img src="https://avatars.githubusercontent.com/u/61361867?s=200&v=4" height="50" alt="Gradio logo" />
+ <!-- Streamlit -->
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="50" alt="Streamlit logo" />
-
-<!-- Gradio -->
-<img src="https://raw.githubusercontent.com/gradio-app/gradio/main/assets/logo.png" height="50" alt="Gradio logo" />
-
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="Hugging Face" />
+ 
 </div>
 
 
