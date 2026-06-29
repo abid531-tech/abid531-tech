@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Abdur Rahman</h1>
-<h3 align="center">💻 Full Stack Web Developer Intern | Exploring Modern Web Technologies</h3>
+<h3 align="center">Full Stack Web Developer Intern | Exploring Modern Web Technologies</h3>
 <p align="center">
-  🌐 Currently learning <b>HTML, CSS, Java, React, and Laravel</b><br/>
-  🖥️ Experienced with <b>C++ and Python</b><br/>
-  🚀 Passionate about building scalable web applications and improving my skills every day
+  Currently learning <b>HTML, CSS, Java, React, and Laravel</b><br/>
+  Experienced with <b>C++ and Python</b><br/>
+  Passionate about building scalable web applications and improving my skills every day
 </p><br>
 
 ###
